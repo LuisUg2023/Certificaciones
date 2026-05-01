@@ -1,0 +1,142 @@
+📡 Módulo 1: Comunicación en un Mundo Conectado
+
+1.0 Introducción
+1.1 Tipos de red
+1.2 Transmisión de datos
+1.3 Ancho de Banda y Rendimiento
+1.4 Resumen de Comunicaciones en un Mundo Conectado
+
+🌐 Módulo 2: Componentes, tipos y conexiones de red
+
+2.0 Introducción
+2.1 Clientes y Servidores
+2.2 Componentes de la red
+2.3 Opciones de Conectividad al ISP
+2.4 Resumen Componentes, Tipos y Conexiones de Red
+
+📶 Módulo 3: Redes inalámbricas y móviles
+
+3.0 Introducción
+3.1 Redes inalámbricas
+3.2 Conectividad de Dispositivos Móviles
+3.3 Resumen de Redes Inalámbricas y Móviles
+
+🏠 Módulo 4: Crear una Red Doméstica
+
+4.0 Introducción
+4.1 Conceptos Básicos de Redes Domésticas
+4.2 Tecnologías de Red en el Hogar
+4.3 Estándares Inalámbricos
+4.4 Configurar un Enrutador Doméstico
+4.5 Resumen de Crear una Red Doméstica
+
+🧪 Examen de punto de control: Construya una red pequeña
+Examen de punto de control
+🔗 Módulo 5: Principios de Comunicación
+
+5.0 Introducción
+5.1 Protocolos de comunicación
+5.2 Estándares de Comunicación
+5.3 Modelos de Comunicación de Red
+5.4 Resumen de Principios de Comunicación
+
+🧵 Módulo 6: Medios de red
+
+6.0 Introducción
+6.1 Tipos de Medios de Red
+6.2 Resumen de Medios de Red
+
+🧱 Módulo 7: La capa de acceso
+
+7.0 Introducción
+7.1 Encapsulación y la Trama de Ethernet
+7.2 La Capa de Acceso
+7.3 Resumen de la Capa de Acceso
+
+🧪 Examen de punto de control: Acceso a la red
+Examen de punto de control
+🌍 Módulo 8: El Protocolo de Internet
+
+8.0 Introducción
+8.1 Propósito de una dirección IPv4
+8.2 La Estructura de la Dirección IPv4
+8.3 Resumen de El Protocolo de Internet
+
+🧮 Módulo 9: IPv4 y segmentación de redes
+
+9.0 Introducción
+9.1 Unidifusión, difusión y multidifusión de IPv4
+9.2 Tipos de direcciones IPv4
+9.3 Segmentación de la red
+9.4 Resumen de IPv4 y segmentación de redes
+
+🔢 Módulo 10: Formatos y reglas de direccionamiento IPv6
+
+10.0 Introducción
+10.1 Problemas con IPv4
+10.2 Direccionamiento IPv6
+10.3 Resumen de Formatos y reglas de direccionamiento IPv6
+
+⚙️ Módulo 11: Direccionamiento Dinámico con DHCP
+
+11.0 Introducción
+11.1 Direccionamiento Estático y Dinámico
+11.2 Configuración de DHCPv4
+11.3 Resumen de Direccionamiento Dinámico con DHCP
+
+🧪 Examen de punto de control: El Protocolo de Internet
+Examen de punto de control
+🌉 Módulo 12: Puertas de enlace a otras redes
+
+12.0 Introducción
+12.1 Límites de la Red
+12.2 Traducción de Direcciones de Red
+12.3 Resumen de puertas de enlace a otras redes
+
+🔄 Módulo 13: El proceso ARP
+
+13.0 Introducción
+13.1 MAC e IP
+13.2 Contención de Difusiones
+13.3 Resumen de El proceso ARP
+
+🧭 Módulo 14: Enrutamiento Entre Redes
+
+14.0 Introducción
+14.1 La Necesidad del Enrutamiento
+14.2 La Tabla de Enrutamiento
+14.3 Crear una LAN
+14.4 Resumen de Enrutamiento entre Redes
+
+🧪 Examen de punto de control: Comunicación entre Redes
+Examen de punto de control
+🔌 Módulo 15: TCP y UDP
+
+15.0 Introducción
+15.1 TCP y UDP
+15.2 Números de Puerto
+15.3 Resumen de TCP y UDP
+
+🌐 Módulo 16: Servicios de la Capa de Aplicación
+
+16.0 Introducción
+16.1 La Relación Cliente-Servidor
+16.2 Servicios de Aplicaciones de Red
+16.3 Sistema de Nombres de Dominio
+16.4 Clientes y Servidores Web
+16.5 Clientes y Servidores FTP
+16.6 Terminales Virtuales
+16.7 Correo Electrónico y Mensajería
+16.8 Resumen de Servicios de la Capa de Aplicación
+
+🛠️ Módulo 17: Utilidades de prueba de red
+
+17.0 Introducción
+17.1 Comandos de solución de problemas
+17.2 Resumen de Utilidades de Pruebas de Red
+
+🧪 Examen de Punto de Control: Protocolos para Tareas Específicas
+Examen de punto de control
+🎓 Examen final de Conceptos básicos de redes
+Examen final del curso
+Encuesta final del curso
