@@ -2,8 +2,8 @@ CISCO.txt
 AQUI ESTAN LOS CERTIFICADOS DE LOS CURSOS INTRODUCTORIOS DE REDES QUE DICTA CISCO
 
 CISCO_INTERMEDIO
-CONTENIDO DE REDES DE INTERNET BASICO.(redesBasics.png)
-
+.(redesBasics.png)
+![CONTENIDO DE REDES DE INTERNET BASICO](redesBasics.png)
 Ministerio_Trabajo.txt
 Contenido de los certificados dictados por el ministerio de trabajo de ecuador
 
