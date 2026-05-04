@@ -1,12 +1,18 @@
-----------------------------------------------------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 CERTIFICADOS: OBTENIDOS AL CULMINAR LOS CURSOS EN LA ACADEMICA DE CISCO NETACACAD.
 
-----------------------------------------------------------------------------------
-
-..............
-CERTIFICADO A:
-..............
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                                   
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+                                    
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                                CERTIFICADO A:
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 TEMA: Conceptos básicos de redes(PRACTICAS EN CISCO-PACKET-TRACER)
 ACADEMIA: CISCO-NETACAD
@@ -160,9 +166,9 @@ Examen de punto de control
 Examen final del curso
 Encuesta final del curso
 
-..............
-CERTIFICADO B:
-..............
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+                            CERTIFICADO B:
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 TEMA: Direccionamiento de red y solucion de problemas basicos(PRACTICAS EN CISCO-PACKET-TRACER)
 ACADEMIA: CISCO-NETACAD
