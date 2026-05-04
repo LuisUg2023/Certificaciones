@@ -1,3 +1,22 @@
+----------------------------------------------------------------------------------
+
+CERTIFICADOS: OBTENIDOS AL CULMINAR LOS CURSOS EN LA ACADEMICA DE CISCO NETACACAD.
+
+----------------------------------------------------------------------------------
+
+..............
+CERTIFICADO A:
+..............
+
+TEMA: Conceptos básicos de redes(PRACTICAS EN CISCO-PACKET-TRACER)
+ACADEMIA: CISCO-NETACAD
+MODULOS: 17
+AÑO:2026
+ENLACE CERTIFICADO: https://drive.google.com/file/d/1h0ihRgY5RwFvijfb_FKYqOPL26VEDxmb/view?usp=drive_link
+ENLACE CURSO: https://www.netacad.com/
+
+MODULOS:
+
 📡 Módulo 1: Comunicación en un Mundo Conectado
 
 1.0 Introducción
@@ -140,3 +159,16 @@ Examen de punto de control
 🎓 Examen final de Conceptos básicos de redes
 Examen final del curso
 Encuesta final del curso
+
+..............
+CERTIFICADO B:
+..............
+
+TEMA: Direccionamiento de red y solucion de problemas basicos(PRACTICAS EN CISCO-PACKET-TRACER)
+ACADEMIA: CISCO-NETACAD
+MODULOS: 7
+AÑO:2026
+ENLACE CERTIFICADO: https://drive.google.com/file/d/1h0ihRgY5RwFvijfb_FKYqOPL26VEDxmb/view?usp=drive_link
+ENLACE CURSO: https://www.netacad.com/
+
+MODULOS:
